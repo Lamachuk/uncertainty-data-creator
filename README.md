@@ -1,5 +1,12 @@
 # uncertainty-data-creator
 
+Idea:
+- Backend in RUST --> calculate social interaction of many entities and generate uncertainty data
+    - parallel --> needs fast runtime
+- Visualize real-time in browser with d3/canvas
+
+-----
+
 Tool to create uncertain data.
 RUST or JavaScript Web Workers to simulate a zivilisation spreading information.
 - Parameters for EVERY Uncertainty aspect...
